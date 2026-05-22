@@ -28621,5 +28621,12 @@
     "author": "Nasser Alansari",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Renders Mermaid diagrams using the latest version, independent of the built-in bundled version.",
     "repo": "dacrystal/obsidian-mermaid-next-plugin"
-  }
+  },
+  {
+  "id": "hide-empty-headings",
+  "name": "Hide Empty Headings",
+  "author": "duluodexiaopiqiu",
+  "description": "Hide headings with no content in reading view",
+  "repo": "duluodexiaopiqiu/obsidian-hide-empty-headings"
+}
 ]
